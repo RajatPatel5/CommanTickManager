@@ -1,0 +1,18 @@
+﻿{
+  "name": "com.irfanraza.commanTickManager",
+  "version": "1.0.0",
+  "displayName": "Comman Tick Manager",
+  "description": "Comman Tick Manager",
+  "unity": "5.6",
+  "keywords": [
+    "keyword",
+    "examplePackage",
+    "demoPackage"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": "Irfanraza",
+    "email": "mirzairfanraza@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
